@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 He/Him<br>✨ Creating bugs since 2024<br>📚 I'm currently learning a bit of everything<br>🎯 Goals: Learn enough to be able to create anything i think of.<br>🎲 Fun fact: I really enjoy indie and Nintendo games, 3D printing  and art.</p>
+<p align="left">👋 He/Him<br>✨ Creating bugs since 2024<br>📚 I'm currently learning a bit of everything<br>🎯 Goals: Learn enough to be able to create anything i think of.<br>🎬 Intrests: I really enjoy Indie and Nintendo games, 3D printing and art.<br>🎲 Fun fact: I'm really bad at thinking of fun facts about myself. That counts, right?</p>
 
 ###
 
