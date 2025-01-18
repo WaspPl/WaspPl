@@ -38,10 +38,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/WaspPl/count.svg?"  />
 </div>
