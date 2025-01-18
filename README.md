@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">He/Him</p>
+
+###
+
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning a bit of everything<br>🎯 Goals: Learn enough to be able to create anything i think of.<br>🎲 Fun fact: I really enjoy indie and Nintendo games, 3D printing  and art.</p>
 
 ###
