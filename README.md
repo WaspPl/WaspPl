@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">He/Him</p>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning a bit of everything<br>🎯 Goals: Learn enough to be able to create anything i think of.<br>🎲 Fun fact: I really enjoy indie and Nintendo games, 3D printing  and art.</p>
+<p align="left">👋 He/Him<br>✨ Creating bugs since 2024<br>📚 I'm currently learning a bit of everything<br>🎯 Goals: Learn enough to be able to create anything i think of.<br>🎲 Fun fact: I really enjoy indie and Nintendo games, 3D printing  and art.</p>
 
 ###
 
@@ -39,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
